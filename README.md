@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jenin Joy</h1>
+<h1 align="center">Hi 👋, My Name Is Jenin Joy</h1>
 <h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenin-joy&label=Profile%20views&color=0e75b6&style=flat" alt="jenin-joy" /> </p>
