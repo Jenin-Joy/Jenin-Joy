@@ -1,6 +1,7 @@
 # 💫 About Me:
 🚀 About Me<br><br>💻 Currently working on: building web and mobile applications using Flutter, Django, React, PHP, and MySQL.<br><br>🤝 Looking to collaborate on: real-world full-stack projects and ideas around encryption, WebSockets, and secure communication systems.<br><br>📚 Currently learning: advanced concepts in full-stack development, exploring React + Django integration, and improving performance optimization.<br><br>💬 Ask me about: Flutter, Django, React, PHP, MySQL, and secure communication in applications.<br><br>🎉 Fun fact: I love turning ideas into working solutions, and I’m always experimenting with new tools and frameworks.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenin-joy&label=Profile%20views&color=0e75b6&style=flat" alt="jenin-joy" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jenin.joy.92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jenin_3_46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jenin-joy-b3530b364) 
